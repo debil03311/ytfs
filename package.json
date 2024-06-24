@@ -4,6 +4,8 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
+    "upload": "node . upload",
+    "download": "node . download",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
